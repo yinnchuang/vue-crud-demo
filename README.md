@@ -1,5 +1,5 @@
-# vue-demo
-
+# vue-crud-demo
+## 使用了Vue3+Vite实现前端界面的设计，axios实现与golang后端接口的跨域
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -20,10 +20,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
